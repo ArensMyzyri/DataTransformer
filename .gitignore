@@ -21,4 +21,4 @@ phpdocker/php-fpm
 Cli/
 .phpunit.cache
 .phpunit.result.cache
-src/Domain/Command.php
+Domain/Command.php
