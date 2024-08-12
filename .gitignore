@@ -22,3 +22,4 @@ Cli/
 .phpunit.cache
 .phpunit.result.cache
 src/Domain/Command.php
+symfony.lock
