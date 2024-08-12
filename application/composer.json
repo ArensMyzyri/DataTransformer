@@ -1,20 +1,19 @@
 {
     "name": "arens-myzyri/data-transformation-and-serialization",
     "type": "symfony-bundle",
-    "version": "1.0.1",
+    "version": "v1.0.2",
     "require": {
         "php": ">=8.1",
-        "symfony/serializer": "^7.1",
+        "symfony/serializer": "^6.2.0",
         "symfony/runtime": "^6.2.0",
         "symfony/framework-bundle": "^6.2.0",
         "symfony/console": "^v6.2.0",
-        "symfony/property-access": "^7.1"
-    }
-    ,
+        "symfony/property-access": "^6.2.0"
+    },
     "require-dev": {
         "roave/security-advisories": "dev-latest",
-        "symfony/yaml": "^7.1",
-        "symfony/phpunit-bridge": "^7.1",
+        "symfony/yaml": "^6.2.0",
+        "symfony/phpunit-bridge": "^6.2.0",
         "phpunit/phpunit": "^11.3"
 
     },
