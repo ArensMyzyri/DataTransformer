@@ -4,8 +4,6 @@ Data transformer and serializer
 This is a simple though powerful transformer that helps you with normalizing and serializing models, json, array and so on.
 
 
-You can also learn about these practices in [the official Symfony Book][5].
-
 Requirements
 ------------
 
