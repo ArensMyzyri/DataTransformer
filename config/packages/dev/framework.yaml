@@ -1,0 +1,6 @@
+# see https://symfony.com/doc/current/reference/configuration/framework.html
+framework:
+    http_client:
+        default_options:
+            verify_peer: false
+            verify_host: false
