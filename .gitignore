@@ -5,7 +5,7 @@ ssl
 phpdocker/data_mysql
 .env.local
 symfony/var
-application/.env
+application/.env.test
 application/var
 application/.php-cs-fixer.cache
 application/.php-cs-fixer.dist.php
