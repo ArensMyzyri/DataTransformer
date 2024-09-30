@@ -1,7 +1,7 @@
 {
     "name": "arens-myzyri/data-transformation-and-serialization",
     "type": "symfony-bundle",
-    "version": "v1.0.3",
+    "version": "v1.0.5",
     "require": {
         "php": ">=8.1",
         "symfony/serializer": "^v6.0.0|^v7.1.0",
